@@ -1,0 +1,3 @@
+/home/kirill/CLionProjects/UnorderedMap/build/CMakeFiles/unordered_map.dir
+/home/kirill/CLionProjects/UnorderedMap/build/CMakeFiles/edit_cache.dir
+/home/kirill/CLionProjects/UnorderedMap/build/CMakeFiles/rebuild_cache.dir
